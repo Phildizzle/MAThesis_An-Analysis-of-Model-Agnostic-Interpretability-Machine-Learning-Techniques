@@ -1,0 +1,62 @@
+\BOOKMARK [1][-]{section*.1}{List of Figures}{}% 1
+\BOOKMARK [1][-]{section*.1}{List of Tables}{}% 2
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 3
+\BOOKMARK [2][-]{subsection.1.1}{Research Context}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.2}{Central Problem}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.3}{Literature Review}{section.1}% 6
+\BOOKMARK [2][-]{subsection.1.4}{Research Objectives}{section.1}% 7
+\BOOKMARK [2][-]{subsection.1.5}{Research Methodology}{section.1}% 8
+\BOOKMARK [2][-]{subsection.1.6}{Structure of this Thesis}{section.1}% 9
+\BOOKMARK [1][-]{section.2}{Machine Learning}{}% 10
+\BOOKMARK [2][-]{subsection.2.1}{General Definition of Machine Learning}{section.2}% 11
+\BOOKMARK [2][-]{subsection.2.2}{Machine Learning Terminology}{section.2}% 12
+\BOOKMARK [1][-]{section.3}{Interpretability}{}% 13
+\BOOKMARK [2][-]{subsection.3.1}{Relevance of Interpretability}{section.3}% 14
+\BOOKMARK [2][-]{subsection.3.2}{The Struggle of Defining Interpretability}{section.3}% 15
+\BOOKMARK [2][-]{subsection.3.3}{Stakeholders of Interpretability}{section.3}% 16
+\BOOKMARK [2][-]{subsection.3.4}{Characteristics of Interpretability}{section.3}% 17
+\BOOKMARK [2][-]{subsection.3.5}{Terminology of Interpretability Techniques}{section.3}% 18
+\BOOKMARK [3][-]{subsubsection.3.5.1}{Interpretability and the Model Building Process}{subsection.3.5}% 19
+\BOOKMARK [3][-]{subsubsection.3.5.2}{Types of Interpretability Techniques}{subsection.3.5}% 20
+\BOOKMARK [3][-]{subsubsection.3.5.3}{Scope of Interpretability Techniques}{subsection.3.5}% 21
+\BOOKMARK [2][-]{subsection.3.6}{Motivation of the Selected Interpretability Techniques}{section.3}% 22
+\BOOKMARK [1][-]{section.4}{Data Set}{}% 23
+\BOOKMARK [1][-]{section.5}{Intrinsically Interpretive Models}{}% 24
+\BOOKMARK [2][-]{subsection.5.1}{Linear Regression}{section.5}% 25
+\BOOKMARK [3][-]{subsubsection.5.1.1}{The Linear Regression Model}{subsection.5.1}% 26
+\BOOKMARK [3][-]{subsubsection.5.1.2}{Ordinary Least Squares Assumptions}{subsection.5.1}% 27
+\BOOKMARK [3][-]{subsubsection.5.1.3}{Interpretation}{subsection.5.1}% 28
+\BOOKMARK [3][-]{subsubsection.5.1.4}{Example}{subsection.5.1}% 29
+\BOOKMARK [3][-]{subsubsection.5.1.5}{Discussion of Advantages and Disadvantages}{subsection.5.1}% 30
+\BOOKMARK [2][-]{subsection.5.2}{Decision Trees for Classification}{section.5}% 31
+\BOOKMARK [3][-]{subsubsection.5.2.1}{Decision Tree Models}{subsection.5.2}% 32
+\BOOKMARK [3][-]{subsubsection.5.2.2}{Creating a Decision Tree}{subsection.5.2}% 33
+\BOOKMARK [3][-]{subsubsection.5.2.3}{Interpretation}{subsection.5.2}% 34
+\BOOKMARK [3][-]{subsubsection.5.2.4}{Example}{subsection.5.2}% 35
+\BOOKMARK [3][-]{subsubsection.5.2.5}{Discussion of Advantages and Disadvantages}{subsection.5.2}% 36
+\BOOKMARK [1][-]{section.6}{Global Post-Hoc Model-Agnostic Interpretability Techniques}{}% 37
+\BOOKMARK [2][-]{subsection.6.1}{Partial Dependence Plots}{section.6}% 38
+\BOOKMARK [3][-]{subsubsection.6.1.1}{Friedman's \(2001\) Partial Dependence Plots}{subsection.6.1}% 39
+\BOOKMARK [3][-]{subsubsection.6.1.2}{Example Interpretation}{subsection.6.1}% 40
+\BOOKMARK [3][-]{subsubsection.6.1.3}{Discussion of Advantages and Disadvantages}{subsection.6.1}% 41
+\BOOKMARK [2][-]{subsection.6.2}{Individual Conditional Expectation}{section.6}% 42
+\BOOKMARK [3][-]{subsubsection.6.2.1}{Individual Conditional Expectation Plots of Goldstein et al. \(2015\)}{subsection.6.2}% 43
+\BOOKMARK [3][-]{subsubsection.6.2.2}{Example Interpretation}{subsection.6.2}% 44
+\BOOKMARK [3][-]{subsubsection.6.2.3}{Discussion of Advantages and Disadvantages}{subsection.6.2}% 45
+\BOOKMARK [2][-]{subsection.6.3}{Accumulated Local Effects}{section.6}% 46
+\BOOKMARK [3][-]{subsubsection.6.3.1}{Apley's \(2016\) Accumulated Local Effects Plots}{subsection.6.3}% 47
+\BOOKMARK [3][-]{subsubsection.6.3.2}{Example Interpretation}{subsection.6.3}% 48
+\BOOKMARK [3][-]{subsubsection.6.3.3}{Discussion of Advantages and Disadvantages}{subsection.6.3}% 49
+\BOOKMARK [2][-]{subsection.6.4}{Global Surrogate Models}{section.6}% 50
+\BOOKMARK [3][-]{subsubsection.6.4.1}{Global Surrogate Models from the Field of Engineering}{subsection.6.4}% 51
+\BOOKMARK [3][-]{subsubsection.6.4.2}{Example Interpretation}{subsection.6.4}% 52
+\BOOKMARK [3][-]{subsubsection.6.4.3}{Discussion of Advantages and Disadvantages}{subsection.6.4}% 53
+\BOOKMARK [2][-]{subsection.6.5}{Local Surrogate Models}{section.6}% 54
+\BOOKMARK [3][-]{subsubsection.6.5.1}{Local Interpretable Model-Agnostic Explanations \(LIME\) of \@tempd *\@tempc ribeiro2016should}{subsection.6.5}% 55
+\BOOKMARK [3][-]{subsubsection.6.5.2}{Example Interpretation}{subsection.6.5}% 56
+\BOOKMARK [3][-]{subsubsection.6.5.3}{Discussion of Advantages and Disadvantages}{subsection.6.5}% 57
+\BOOKMARK [1][-]{section.7}{Discussion: How to Integrate Post-Hoc Model Agnostic Interpretability Techniques in a Researcher-Oriented Workflow}{}% 58
+\BOOKMARK [1][-]{section.8}{Conclusion}{}% 59
+\BOOKMARK [1][-]{appendix.1.A}{Further Figures and Tables}{}% 60
+\BOOKMARK [1][-]{appendix.1.B}{Further Explanations}{}% 61
+\BOOKMARK [1][-]{appendix.1.C}{Software used Throughout this Thesis}{}% 62

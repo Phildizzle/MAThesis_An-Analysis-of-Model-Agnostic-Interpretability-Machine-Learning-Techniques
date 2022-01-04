@@ -1,0 +1,8 @@
+\contentsline {table}{\numberline {1}{\ignorespaces Overview of selected literature for post-hoc model-agnostic interpretability techniques\relax }}{40}{table.caption.5}%
+\contentsline {table}{\numberline {2}{\ignorespaces Overview of the variables in the abalone data set\relax }}{43}{table.caption.7}%
+\contentsline {table}{\numberline {3}{\ignorespaces Descriptive statistics of the abalone data set.\relax }}{44}{table.caption.8}%
+\contentsline {table}{\numberline {4}{\ignorespaces Correlation (Pearson) matrix of the abalone data set.\relax }}{44}{table.caption.9}%
+\contentsline {table}{\numberline {5}{\ignorespaces Linear regression results for \emph {Rings}\relax }}{50}{table.caption.10}%
+\contentsline {table}{\numberline {6}{\ignorespaces Linear regression results for the surrogate regression in comparison to the linear regression from chapter 5\relax }}{90}{table.caption.28}%
+\contentsline {table}{\numberline {7}{\ignorespaces Sample values for observation 28\relax }}{95}{table.caption.30}%
+\contentsline {table}{\numberline {8}{\ignorespaces Purity measures and variance thereof for the random forest model\relax }}{109}{table.caption.34}%

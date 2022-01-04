@@ -1,0 +1,62 @@
+\contentsline {section}{List of Figures}{IV}{section*.1}%
+\contentsline {section}{List of Tables}{IV}{section*.1}%
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Research Context}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Central Problem}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Literature Review}{4}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Research Objectives}{5}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Research Methodology}{8}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Structure of this Thesis}{9}{subsection.1.6}%
+\contentsline {section}{\numberline {2}Machine Learning}{10}{section.2}%
+\contentsline {subsection}{\numberline {2.1}General Definition of Machine Learning}{10}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Machine Learning Terminology}{15}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Interpretability}{18}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Relevance of Interpretability}{18}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}The Struggle of Defining Interpretability}{22}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Stakeholders of Interpretability}{27}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Characteristics of Interpretability}{29}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Terminology of Interpretability Techniques}{33}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}Interpretability and the Model Building Process}{33}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.2}Types of Interpretability Techniques}{34}{subsubsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {3.5.3}Scope of Interpretability Techniques}{35}{subsubsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.6}Motivation of the Selected Interpretability Techniques}{38}{subsection.3.6}%
+\contentsline {section}{\numberline {4}Data Set}{41}{section.4}%
+\contentsline {section}{\numberline {5}Intrinsically Interpretive Models}{45}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Linear Regression}{45}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}The Linear Regression Model}{45}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}Ordinary Least Squares Assumptions}{46}{subsubsection.5.1.2}%
+\contentsline {subsubsection}{\numberline {5.1.3}Interpretation}{47}{subsubsection.5.1.3}%
+\contentsline {subsubsection}{\numberline {5.1.4}Example}{50}{subsubsection.5.1.4}%
+\contentsline {subsubsection}{\numberline {5.1.5}Discussion of Advantages and Disadvantages}{52}{subsubsection.5.1.5}%
+\contentsline {subsection}{\numberline {5.2}Decision Trees for Classification}{54}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}Decision Tree Models}{54}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2}Creating a Decision Tree}{55}{subsubsection.5.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.3}Interpretation}{56}{subsubsection.5.2.3}%
+\contentsline {subsubsection}{\numberline {5.2.4}Example}{56}{subsubsection.5.2.4}%
+\contentsline {subsubsection}{\numberline {5.2.5}Discussion of Advantages and Disadvantages}{57}{subsubsection.5.2.5}%
+\contentsline {section}{\numberline {6}Global Post-Hoc Model-Agnostic Interpretability Techniques}{59}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Partial Dependence Plots}{59}{subsection.6.1}%
+\contentsline {subsubsection}{\numberline {6.1.1}Friedman's (2001) Partial Dependence Plots}{59}{subsubsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.2}Example Interpretation}{60}{subsubsection.6.1.2}%
+\contentsline {subsubsection}{\numberline {6.1.3}Discussion of Advantages and Disadvantages}{67}{subsubsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.2}Individual Conditional Expectation}{70}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Individual Conditional Expectation Plots of Goldstein et al. (2015)}{70}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}Example Interpretation}{71}{subsubsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.3}Discussion of Advantages and Disadvantages}{76}{subsubsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.3}Accumulated Local Effects}{78}{subsection.6.3}%
+\contentsline {subsubsection}{\numberline {6.3.1}Apley's (2016) Accumulated Local Effects Plots}{78}{subsubsection.6.3.1}%
+\contentsline {subsubsection}{\numberline {6.3.2}Example Interpretation}{79}{subsubsection.6.3.2}%
+\contentsline {subsubsection}{\numberline {6.3.3}Discussion of Advantages and Disadvantages}{85}{subsubsection.6.3.3}%
+\contentsline {subsection}{\numberline {6.4}Global Surrogate Models}{87}{subsection.6.4}%
+\contentsline {subsubsection}{\numberline {6.4.1}Global Surrogate Models from the Field of Engineering}{87}{subsubsection.6.4.1}%
+\contentsline {subsubsection}{\numberline {6.4.2}Example Interpretation}{88}{subsubsection.6.4.2}%
+\contentsline {subsubsection}{\numberline {6.4.3}Discussion of Advantages and Disadvantages}{91}{subsubsection.6.4.3}%
+\contentsline {subsection}{\numberline {6.5}Local Surrogate Models}{93}{subsection.6.5}%
+\contentsline {subsubsection}{\numberline {6.5.1}Local Interpretable Model-Agnostic Explanations (LIME) of \citet {ribeiro2016should}}{93}{subsubsection.6.5.1}%
+\contentsline {subsubsection}{\numberline {6.5.2}Example Interpretation}{94}{subsubsection.6.5.2}%
+\contentsline {subsubsection}{\numberline {6.5.3}Discussion of Advantages and Disadvantages}{98}{subsubsection.6.5.3}%
+\contentsline {section}{\numberline {7}Discussion: How to Integrate Post-Hoc Model Agnostic Interpretability Techniques in a Researcher-Oriented Workflow}{99}{section.7}%
+\contentsline {section}{\numberline {8}Conclusion}{106}{section.8}%
+\contentsline {section}{\numberline {A}Further Figures and Tables}{109}{appendix.1.A}%
+\contentsline {section}{\numberline {B}Further Explanations}{115}{appendix.1.B}%
+\contentsline {section}{\numberline {C}Software used Throughout this Thesis}{119}{appendix.1.C}%

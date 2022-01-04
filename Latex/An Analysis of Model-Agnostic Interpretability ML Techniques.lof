@@ -1,0 +1,27 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Blacklip abalone (haliotis rubra)\relax }}{41}{figure.caption.6}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Coefficient plot for linear regression on \emph {Rings} with normalized coefficients\relax }}{51}{figure.caption.11}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Effect plot for the linear regression on \emph {Rings}\relax }}{53}{figure.caption.12}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Example decision tree\relax }}{54}{figure.caption.13}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Decision tree for \emph {AgeCat}\relax }}{57}{figure.caption.14}%
+\contentsline {figure}{\numberline {6}{\ignorespaces PDPs of \emph {WholeWeight}, \emph {ShuckedWeight}, \emph {Length}, and \emph {Sex} for \emph {Rings}.\relax }}{61}{figure.caption.15}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Two-dimensional PDP of \emph {WholeWeight} and \emph {ShuckedWeight} for \emph {Rings}\relax }}{64}{figure.caption.16}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Three-dimensional PDPs of \emph {WholeWeight}, \emph {ShuckedWeight}, and \emph {Length} for \emph {Rings}\relax }}{65}{figure.caption.17}%
+\contentsline {figure}{\numberline {9}{\ignorespaces PDPs of \emph {WholeWeight}, \emph {ShuckedWeight}, \emph {Length}, and \emph {Sex} for \emph {AgeCat}\relax }}{66}{figure.caption.18}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Two-dimensional PDP of \emph {WholeWeight} and \emph {ShuckedWeight} for \emph {AgeCat}\relax }}{68}{figure.caption.19}%
+\contentsline {figure}{\numberline {11}{\ignorespaces ICE plots of \emph {WholeWeight}, \emph {ShuckedWeight}, \emph {Length}, and \emph {Sex} for \emph {Rings}\relax }}{72}{figure.caption.20}%
+\contentsline {figure}{\numberline {12}{\ignorespaces ICE plots of \emph {WholeWeight}, \emph {ShuckedWeight}, \emph {Length}, and \emph {Sex} for \emph {AgeCat}\relax }}{74}{figure.caption.21}%
+\contentsline {figure}{\numberline {13}{\ignorespaces c-ICE plot of \emph {ShuckedWeight} for \emph {AgeCat}\relax }}{75}{figure.caption.22}%
+\contentsline {figure}{\numberline {14}{\ignorespaces d-ICE plot of \emph {WholeWeight} for \emph {Rings}\relax }}{76}{figure.caption.23}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Centered ALE plots of \emph {WholeWeight}, \emph {ShuckedWeight}, \emph {Length}, and \emph {Sex} for \emph {Rings}\relax }}{80}{figure.caption.24}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Second-order ALE plot of \emph {WholeWeight} for \emph {Rings}\relax }}{82}{figure.caption.25}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Centered ALE plots of \emph {WholeWeight}, \emph {ShuckedWeight}, \emph {Length}, and \emph {Sex} for \emph {AgeCat}\relax }}{84}{figure.caption.26}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Second-order ALE plot of \emph {WholeWeight} for \emph {AgeCat}\relax }}{85}{figure.caption.27}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Surrogate decision tree for $\setbox \z@ \hbox {\mathsurround \z@ $\textstyle y_{AgeCat}$}\mathaccent "0362{y_{AgeCat}}$\relax }}{91}{figure.caption.29}%
+\contentsline {figure}{\numberline {20}{\ignorespaces LIME plot for \emph {Rings} for observation $28$\relax }}{96}{figure.caption.31}%
+\contentsline {figure}{\numberline {21}{\ignorespaces LIME plot for \emph {AgeCat} for observation $28$\relax }}{97}{figure.caption.32}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Coefficient plot for linear regression on \emph {Rings} with normalized coefficients\relax }}{110}{figure.caption.35}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Two-dimensional PDP of \emph {WholeWeight} and \emph {Sex} for \emph {Rings}\relax }}{111}{figure.caption.36}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Two-dimensional PDP of \emph {WholeWeight} and \emph {Length} for \emph {Rings}\relax }}{112}{figure.caption.37}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Two-dimensional PDP of \emph {WholeWeight} and \emph {Sex} for \emph {AgeCat}\relax }}{113}{figure.caption.38}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Two-dimensional PDP of \emph {WholeWeight} and \emph {Length} for \emph {AgeCat}\relax }}{114}{figure.caption.39}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Distribution of $x_{2}$-$y$ and PDP of \emph {WholeWeight} and \emph {Length} for \emph {AgeCat}\relax }}{115}{figure.caption.41}%

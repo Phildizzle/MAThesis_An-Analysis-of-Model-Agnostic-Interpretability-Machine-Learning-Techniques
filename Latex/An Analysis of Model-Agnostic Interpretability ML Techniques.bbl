@@ -1,0 +1,1189 @@
+\begin{thebibliography}{}
+
+\bibitem[Adadi and Berrada, 2018]{adadi2018peeking}
+Adadi, A. and Berrada, M. (2018).
+\newblock {Peeking inside the black-box: A survey on Explainable Artificial
+  Intelligence (XAI)}.
+\newblock {\em IEEE Access}, 6:52138--52160.
+
+\bibitem[Adler et~al., 2018]{adler2018auditing}
+Adler, P., Falk, C., Friedler, S.~A., Nix, T., Rybeck, G., Scheidegger, C.,
+  Smith, B., and Venkatasubramanian, S. (2018).
+\newblock Auditing black-box models for indirect influence.
+\newblock {\em Knowledge and Information Systems}, 54(1):95--122.
+
+\bibitem[Alang, 2017]{alang2017}
+Alang, N. (2017).
+\newblock Turns out algorithms are racist.
+\newblock {\em The New Republic at
+  https://newrepublic.com/article/144644/turns-algorithms-racist?utm_content=buffer7f3ea}.
+
+\bibitem[Aldeen et~al., 2015]{aldeen2015comprehensive}
+Aldeen, Y. A. A.~S., Salleh, M., and Razzaque, M.~A. (2015).
+\newblock A comprehensive review on privacy preserving data mining.
+\newblock {\em SpringerPlus}, 4(694).
+
+\bibitem[Alonso~Raposo et~al., 2018]{EUNION2018}
+Alonso~Raposo, M., Grosso, M., Després, J., Fernández~Macías, E., Galassi,
+  C., Krasenbrink, A., Krause, J., Levati, L., Mourtzouchou, A., Saveyn, B.,
+  Thiel, C., and Ciuffo, B. (2018).
+\newblock An analysis of possible socio-economic effects of a cooperative,
+  connected and automated mobility {(CCAM) in Europe}-effects of automated
+  driving on the economy, employment and skills.
+\newblock Technical report, Publications Office of the European Union.
+
+\bibitem[Alpaydin, 2020]{alpaydin2020introduction}
+Alpaydin, E. (2020).
+\newblock {\em Introduction to machine learning}.
+\newblock MIT press.
+
+\bibitem[Alvarez-Melis and Jaakkola, 2018]{alvarez2018robustness}
+Alvarez-Melis, D. and Jaakkola, T.~S. (2018).
+\newblock On the robustness of interpretability methods.
+\newblock {\em arXiv preprint arXiv:1806.08049}.
+
+\bibitem[Anderson and Anderson, 2011]{anderson2011machine}
+Anderson, M. and Anderson, S.~L. (2011).
+\newblock {\em Machine ethics}.
+\newblock Cambridge University Press.
+
+\bibitem[Apley, 2016]{apley2016visualizing}
+Apley, D.~W. (2016).
+\newblock Visualizing the effects of predictor variables in black box
+  supervised learning models.
+\newblock {\em arXiv preprint arXiv:1612.08468}.
+
+\bibitem[Arrieta et~al., 2020]{arrieta2020explainable}
+Arrieta, A.~B., D{\'\i}az-Rodr{\'\i}guez, N., Del~Ser, J., Bennetot, A., Tabik,
+  S., Barbado, A., Garc{\'\i}a, S., Gil-L{\'o}pez, S., Molina, D., Benjamins,
+  R., et~al. (2020).
+\newblock {Explainable Artificial Intelligence (XAI): concepts, taxonomies,
+  opportunities and challenges toward responsible AI}.
+\newblock {\em Information Fusion}, 58:82--115.
+
+\bibitem[Arya et~al., 2019]{arya2019one}
+Arya, V., Bellamy, R.~K., Chen, P.-Y., Dhurandhar, A., Hind, M., Hoffman,
+  S.~C., Houde, S., Liao, Q.~V., Luss, R., Mojsilovi{\'c}, A., et~al. (2019).
+\newblock One explanation does not fit all: A toolkit and taxonomy of ai
+  explainability techniques.
+\newblock {\em arXiv preprint arXiv:1909.03012}.
+
+\bibitem[Athey, 2018]{athey2018impact}
+Athey, S. (2018).
+\newblock The impact of machine learning on economics.
+\newblock In {\em The economics of artificial intelligence: An agenda}, pages
+  507--547. University of Chicago Press.
+
+\bibitem[Awad and Khanna, 2015]{awad2015machine}
+Awad, M. and Khanna, R. (2015).
+\newblock Machine learning and knowledge discovery.
+\newblock In {\em Efficient Learning Machines}, pages 19--38. Springer Nature.
+
+\bibitem[Baron and Musolesi, 2020]{baron2020interpretable}
+Baron, B. and Musolesi, M. (2020).
+\newblock Interpretable machine learning for privacy-preserving pervasive
+  systems.
+\newblock {\em IEEE Pervasive Computing}, 19(1):73--82.
+
+\bibitem[Barreno et~al., 2010]{barreno2010security}
+Barreno, M., Nelson, B., Joseph, A.~D., and Tygar, J.~D. (2010).
+\newblock The security of machine learning.
+\newblock {\em Machine Learning}, 81(2):121--148.
+
+\bibitem[Bibal and Fr{\'e}nay, 2016]{bibal2016interpretability}
+Bibal, A. and Fr{\'e}nay, B. (2016).
+\newblock Interpretability of machine learning models and representations: an
+  introduction.
+\newblock In {\em European Symposium on Artificial Neural Networks}.
+
+\bibitem[Bilgic and Mooney, 2005]{bilgic2005explaining}
+Bilgic, M. and Mooney, R.~J. (2005).
+\newblock Explaining recommendations: Satisfaction vs. promotion.
+\newblock In {\em Beyond Personalization Workshop, IUI}, volume~5, page 153.
+
+\bibitem[Binns, 2018]{binns2017fairness}
+Binns, R. (2018).
+\newblock Fairness in machine learning: Lessons from political philosophy.
+\newblock In {\em Conference on Fairness, Accountability and Transparency},
+  pages 149--159.
+
+\bibitem[Biran and Cotton, 2017]{biran2017explanation}
+Biran, O. and Cotton, C. (2017).
+\newblock Explanation and justification in machine learning: A survey.
+\newblock In {\em IJCAI-17 workshop on explainable AI (XAI)}, volume~8, pages
+  8--13.
+
+\bibitem[Bishop, 2006]{bishop2006pattern}
+Bishop, C.~M. (2006).
+\newblock {\em Pattern recognition and machine learning}.
+\newblock Springer.
+
+\bibitem[Bornstein, 2016]{bornstein2016artificial}
+Bornstein, A.~M. (2016).
+\newblock Is artificial intelligence permanently inscrutable?
+\newblock {\em Nautilus at
+  http://nautil.us/issue/40/learning/is-artificial-intelligence-permanently-inscrutable}.
+
+\bibitem[Braithwaite and Levi, 1998]{braithwaite1998trust}
+Braithwaite, V. and Levi, M. (1998).
+\newblock {\em Trust and governance}.
+\newblock Russell Sage Foundation.
+
+\bibitem[Breiman et~al., 2001]{breiman2001statistical}
+Breiman, L. et~al. (2001).
+\newblock Statistical modeling: The two cultures.
+\newblock {\em Statistical Science}, 16(3):199--231.
+
+\bibitem[Breiman et~al., 1984]{breiman1984classification}
+Breiman, L., Friedman, J., Stone, C.~J., and Olshen, R.~A. (1984).
+\newblock {\em Classification and regression trees}.
+\newblock CRC press.
+
+\bibitem[Brown, 2013]{brown2013explanation}
+Brown, R. (2013).
+\newblock {\em Explanation in social science}.
+\newblock Routledge.
+
+\bibitem[Bunge, 1998]{bunge1998philosophy}
+Bunge, M. (1998).
+\newblock {\em {Philosophy of science: From explanation to justification}},
+  volume~2.
+\newblock Transaction Publishers.
+
+\bibitem[Bzdok et~al., 2018]{bzdok2018points}
+Bzdok, D., Altman, N., and Krzywinski, M. (2018).
+\newblock Points of significance: Statistics versus machine learning.
+\newblock {\em Nature: methods}, 15:233–234.
+
+\bibitem[Cahour and Forzy, 2009]{cahour2009does}
+Cahour, B. and Forzy, J.-F. (2009).
+\newblock Does projection into use improve trust and exploration? {An} example
+  with a cruise control system.
+\newblock {\em Safety Science}, 47(9):1260--1270.
+
+\bibitem[Cai et~al., 2019]{cai2019effects}
+Cai, C.~J., Jongejan, J., and Holbrook, J. (2019).
+\newblock The effects of example-based explanations in a machine learning
+  interface.
+\newblock In {\em Proceedings of the 24th International Conference on
+  Intelligent User Interfaces}, pages 258--262.
+
+\bibitem[Caliskan et~al., 2017]{caliskan2017semantics}
+Caliskan, A., Bryson, J.~J., and Narayanan, A. (2017).
+\newblock Semantics derived automatically from language corpora contain
+  human-like biases.
+\newblock {\em Science}, 356(6334):183--186.
+
+\bibitem[Calmon et~al., 2017]{calmon2017optimized}
+Calmon, F., Wei, D., Vinzamuri, B., Ramamurthy, K.~N., and Varshney, K.~R.
+  (2017).
+\newblock Optimized pre-processing for discrimination prevention.
+\newblock In {\em Advances in Neural Information Processing Systems}, pages
+  3992--4001.
+
+\bibitem[Carvalho et~al., 2019]{carvalho2019machine}
+Carvalho, D.~V., Pereira, E.~M., and Cardoso, J.~S. (2019).
+\newblock Machine learning interpretability: A survey on methods and metrics.
+\newblock {\em Electronics}, 8(8):832.
+
+\bibitem[Castelvecchi, 2016]{castelvecchi2016can}
+Castelvecchi, D. (2016).
+\newblock {Can we open the black box of AI?}
+\newblock {\em Nature News}, 538(7623):20.
+
+\bibitem[Chouldechova and G'Sell, 2017]{chouldechova2017fairer}
+Chouldechova, A. and G'Sell, M. (2017).
+\newblock Fairer and more accurate, but for whom?
+\newblock {\em arXiv preprint arXiv:1707.00046}.
+
+\bibitem[Chouldechova and Roth, 2018]{chouldechova2018frontiers}
+Chouldechova, A. and Roth, A. (2018).
+\newblock The frontiers of fairness in machine learning.
+\newblock {\em arXiv preprint arXiv:1810.08810}.
+
+\bibitem[Cook, 2001]{cook2001trust}
+Cook, K. (2001).
+\newblock {\em Trust in society}.
+\newblock Russell Sage Foundation.
+
+\bibitem[Cooper et~al., 2004]{cooper2004inmates}
+Cooper, A. et~al. (2004).
+\newblock {\em The inmates are running the asylum: Why high-tech products drive
+  us crazy and how to restore the sanity}, volume~2.
+\newblock Sams Indianapolis.
+
+\bibitem[Corbett-Davies and Goel, 2018]{corbett2018measure}
+Corbett-Davies, S. and Goel, S. (2018).
+\newblock The measure and mismeasure of fairness: A critical review of fair
+  machine learning.
+\newblock {\em arXiv preprint arXiv:1808.00023}.
+
+\bibitem[Core et~al., 2006]{core2006building}
+Core, M.~G., Lane, H.~C., Van~Lent, M., Gomboc, D., Solomon, S., and Rosenberg,
+  M. (2006).
+\newblock Building explainable artificial intelligence systems.
+\newblock In {\em AAAI}, pages 1766--1773.
+
+\bibitem[Cowan, 2010]{cowan2010magical}
+Cowan, N. (2010).
+\newblock The magical mystery four: How is working memory capacity limited, and
+  why?
+\newblock {\em Current directions in psychological science}, 19(1):51--57.
+
+\bibitem[Crafts, 2004]{crafts2004}
+Crafts, N. (2004).
+\newblock Steam as a general purpose technology: A growth accounting
+  perspective.
+\newblock {\em The Economic Journal}, 114(495):338--351.
+
+\bibitem[Dasari et~al., 2019]{dasari2019random}
+Dasari, S.~K., Cheddad, A., and Andersson, P. (2019).
+\newblock Random forest surrogate models to support design space exploration in
+  aerospace use-case.
+\newblock In {\em IFIP International Conference on Artificial Intelligence
+  Applications and Innovations}, pages 532--544. Springer.
+
+\bibitem[Datta et~al., 2015]{datta2015automated}
+Datta, A., Tschantz, M.~C., and Datta, A. (2015).
+\newblock Automated experiments on ad privacy settings.
+\newblock {\em Proceedings on privacy enhancing technologies}, 2015(1):92--112.
+
+\bibitem[Deo, 2015]{deo2015machine}
+Deo, R.~C. (2015).
+\newblock Machine learning in medicine.
+\newblock {\em Circulation}, 132(20):1920--1930.
+
+\bibitem[Domingos, 2012]{domingos2012few}
+Domingos, P. (2012).
+\newblock A few useful things to know about machine learning.
+\newblock {\em Communications of the ACM}, 55(10):78--87.
+
+\bibitem[Doran et~al., 2018]{doran2017does}
+Doran, D., Schulz, S., and Besold, T. (2018).
+\newblock {What does explainable AI really mean? A new conceptualization of
+  perspectives}.
+\newblock In {\em CEUR Workshop Proceedings}, volume 2071. CEUR.
+
+\bibitem[Doshi-Velez and Kim, 2017]{doshi2017towards}
+Doshi-Velez, F. and Kim, B. (2017).
+\newblock Towards a rigorous science of interpretable machine learning.
+\newblock {\em arXiv preprint arXiv:1702.08608}.
+
+\bibitem[Doshi-Velez and Kim, 2018]{doshi2018considerations}
+Doshi-Velez, F. and Kim, B. (2018).
+\newblock Considerations for evaluation and generalization in interpretable
+  machine learning.
+\newblock In {\em Explainable and Interpretable Models in Computer Vision and
+  Machine Learning}, pages 3--17. Springer.
+
+\bibitem[Du et~al., 2019]{du2019techniques}
+Du, M., Liu, N., and Hu, X. (2019).
+\newblock Techniques for interpretable machine learning.
+\newblock {\em Communications of the ACM}, 63(1):68--77.
+
+\bibitem[Dwyer et~al., 2018]{dwyer2018machine}
+Dwyer, D.~B., Falkai, P., and Koutsouleris, N. (2018).
+\newblock Machine learning approaches for clinical psychology and psychiatry.
+\newblock {\em Annual review of clinical psychology}, 14:91--118.
+
+\bibitem[Elliott and Timmermann, 2013]{elliott2013handbook}
+Elliott, G. and Timmermann, A. (2013).
+\newblock {\em Handbook of economic forecasting}.
+\newblock Elsevier.
+
+\bibitem[{European Parliament and Council of the European Union},
+  2016]{EUGDPR2016}
+{European Parliament and Council of the European Union} (2016).
+\newblock {Regulation (EU) 2016/679}.
+
+\bibitem[Forde and Paganini, 2019]{forde2019scientific}
+Forde, J.~Z. and Paganini, M. (2019).
+\newblock The scientific method in the science of machine learning.
+\newblock {\em arXiv preprint arXiv:1904.10922}.
+
+\bibitem[Friedler et~al., 2019]{friedler2019comparative}
+Friedler, S.~A., Scheidegger, C., Venkatasubramanian, S., Choudhary, S.,
+  Hamilton, E.~P., and Roth, D. (2019).
+\newblock A comparative study of fairness-enhancing interventions in machine
+  learning.
+\newblock In {\em Proceedings of the Conference on Fairness, Accountability,
+  and Transparency}, pages 329--338.
+
+\bibitem[Friedman, 2001]{friedman2001greedy}
+Friedman, J.~H. (2001).
+\newblock Greedy function approximation: a gradient boosting machine.
+\newblock {\em Annals of statistics}, pages 1189--1232.
+
+\bibitem[Gilpin et~al., 2018]{gilpin2018explaining}
+Gilpin, L.~H., Bau, D., Yuan, B.~Z., Bajwa, A., Specter, M., and Kagal, L.
+  (2018).
+\newblock Explaining explanations: An overview of interpretability of machine
+  learning.
+\newblock In {\em 2018 IEEE 5th International Conference on data science and
+  advanced analytics (DSAA)}, pages 80--89. IEEE.
+
+\bibitem[Goldstein et~al., 2015]{goldstein2015peeking}
+Goldstein, A., Kapelner, A., Bleich, J., and Pitkin, E. (2015).
+\newblock Peeking inside the black box: Visualizing statistical learning with
+  plots of individual conditional expectation.
+\newblock {\em Journal of Computational and Graphical Statistics},
+  24(1):44--65.
+
+\bibitem[Goodfellow et~al., 2014]{goodfellow2014generative}
+Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair,
+  S., Courville, A., and Bengio, Y. (2014).
+\newblock Generative adversarial nets.
+\newblock In {\em Advances in neural information processing systems}, pages
+  2672--2680.
+
+\bibitem[Goodman and Flaxman, 2017]{goodman2017european}
+Goodman, B. and Flaxman, S. (2017).
+\newblock European union regulations on algorithmic decision-making and a
+  “right to explanation”.
+\newblock {\em AI magazine}, 38(3):50--57.
+
+\bibitem[Gorissen et~al., 2009]{gorissen2009evolutionary}
+Gorissen, D., Dhaene, T., and De~Turck, F. (2009).
+\newblock Evolutionary model type selection for global surrogate modeling.
+\newblock {\em Journal of Machine Learning Research}, 10:2039--2078.
+
+\bibitem[Greenwell, 2017]{greenwell2017pdp}
+Greenwell, B.~M. (2017).
+\newblock pdp: An r package for constructing partial dependence plots.
+\newblock {\em R J.}, 9(1):421.
+
+\bibitem[Gregor and Benbasat, 1999]{gregor1999explanations}
+Gregor, S. and Benbasat, I. (1999).
+\newblock Explanations from intelligent systems: Theoretical foundations and
+  implications for practice.
+\newblock {\em MIS Quarterly}, pages 497--530.
+
+\bibitem[Grimmer, 2015]{grimmer2015we}
+Grimmer, J. (2015).
+\newblock We are all social scientists now: How big data, machine learning, and
+  causal inference work together.
+\newblock {\em PS: Political Science \& Politics}, 48(1):80--83.
+
+\bibitem[Guidotti et~al., 2018]{guidotti2018survey}
+Guidotti, R., Monreale, A., Ruggieri, S., Turini, F., Giannotti, F., and
+  Pedreschi, D. (2018).
+\newblock A survey of methods for explaining black box models.
+\newblock {\em ACM computing surveys (CSUR)}, 51(5):1--42.
+
+\bibitem[Gundersen et~al., 2018]{gundersen2018reproducible}
+Gundersen, O.~E., Gil, Y., and Aha, D.~W. (2018).
+\newblock {On reproducible AI: Towards reproducible research, open science, and
+  digital scholarship in AI publications}.
+\newblock {\em AI Magazine}, 39(3):56--68.
+
+\bibitem[Ha and Eck, 2018]{ha2017neural}
+Ha, D. and Eck, D. (2018).
+\newblock A neural representation of sketch drawings.
+\newblock In {\em International Conference on Learning Representations}.
+
+\bibitem[Hajian et~al., 2016]{hajian2016algorithmic}
+Hajian, S., Bonchi, F., and Castillo, C. (2016).
+\newblock Algorithmic bias: From discrimination discovery to fairness-aware
+  data mining.
+\newblock In {\em Proceedings of the 22nd ACM SIGKDD international conference
+  on knowledge discovery and data mining}, pages 2125--2126.
+
+\bibitem[Hall, 2018]{hall2018art}
+Hall, P. (2018).
+\newblock On the art and science of machine learning explanations.
+\newblock {\em arXiv preprint arXiv:1810.02909}.
+
+\bibitem[Hardt et~al., 2016]{hardt2016equality}
+Hardt, M., Price, E., and Srebro, N. (2016).
+\newblock Equality of opportunity in supervised learning.
+\newblock In {\em Advances in neural information processing systems}, pages
+  3315--3323.
+
+\bibitem[Harford, 2014]{harford2014big}
+Harford, T. (2014).
+\newblock Big data: A big mistake?
+\newblock {\em Significance}, 11(5):14--19.
+
+\bibitem[Harlow and Oswald, 2016]{harlow2016big}
+Harlow, L.~L. and Oswald, F.~L. (2016).
+\newblock Big data in psychology: Introduction to the special issue.
+\newblock {\em Psychological Methods}, 21(4):447.
+
+\bibitem[Hastie et~al., 2009]{hastie2009elements}
+Hastie, T., Tibshirani, R., and Friedman, J. (2009).
+\newblock {\em The elements of statistical learning: data mining, inference,
+  and prediction}.
+\newblock Springer Science \& Business Media.
+
+\bibitem[Hawking, 2018]{hawking2018brief}
+Hawking, S. (2018).
+\newblock {\em Brief Answers to the Big Questions}.
+\newblock Random House Publishing Group.
+
+\bibitem[Hayashi, 2000]{hayashi2000econometrics}
+Hayashi, F. (2000).
+\newblock {\em Econometrics}.
+\newblock Princeton University Press.
+
+\bibitem[Hempel and Oppenheim, 1948]{hempel1948studies}
+Hempel, C.~G. and Oppenheim, P. (1948).
+\newblock Studies in the logic of explanation.
+\newblock {\em Philosophy of science}, 15(2):135--175.
+
+\bibitem[Henrique et~al., 2019]{henrique2019literature}
+Henrique, B.~M., Sobreiro, V.~A., and Kimura, H. (2019).
+\newblock Literature review: Machine learning techniques applied to financial
+  market prediction.
+\newblock {\em Expert Systems with Applications}, 124:226--251.
+
+\bibitem[Herlocker et~al., 2000]{herlocker2000explaining}
+Herlocker, J.~L., Konstan, J.~A., and Riedl, J. (2000).
+\newblock Explaining collaborative filtering recommendations.
+\newblock In {\em Proceedings of the 2000 ACM conference on Computer supported
+  cooperative work}, pages 241--250.
+
+\bibitem[Hildebrandt, 2019]{hildebrandt2019privacy}
+Hildebrandt, M. (2019).
+\newblock Privacy as protection of the incomputable self: From agnostic to
+  agonistic machine learning.
+\newblock {\em Theoretical Inquiries in Law}, 20(1):83--121.
+
+\bibitem[Hindman, 2015]{hindman2015building}
+Hindman, M. (2015).
+\newblock Building better models: Prediction, replication, and machine learning
+  in the social sciences.
+\newblock {\em The ANNALS of the American Academy of Political and Social
+  Science}, 659(1):48--62.
+
+\bibitem[Hoffman et~al., 2018]{hoffman2018metrics}
+Hoffman, R.~R., Mueller, S.~T., Klein, G., and Litman, J. (2018).
+\newblock {Metrics for explainable AI: Challenges and prospects}.
+\newblock {\em arXiv preprint arXiv:1812.04608}.
+
+\bibitem[Hsiao et~al., 2019]{hsiao2019}
+Hsiao, W.-L., Katsman, I., Wu, C.-Y., Parikh, D., and Grauman, K. (2019).
+\newblock Fashion++: Minimal edits for outfit improvement.
+\newblock In {\em Proceedings of the IEEE International Conference on Computer
+  Vision}, pages 5047--5056.
+
+\bibitem[Huang et~al., 2020]{huang2020graphlime}
+Huang, Q., Yamada, M., Tian, Y., Singh, D., Yin, D., and Chang, Y. (2020).
+\newblock Graphlime: Local interpretable model explanations for graph neural
+  networks.
+\newblock {\em arXiv preprint arXiv:2001.06216}.
+
+\bibitem[Hunter et~al., 1993]{hunter1993artificial}
+Hunter, L. et~al. (1993).
+\newblock {\em Artificial intelligence and molecular biology}, volume 445.
+\newblock {AAAI Press Menlo Park}.
+
+\bibitem[Hutson, 2018]{Hutson2018}
+Hutson, M. (2018).
+\newblock Artificial intelligence faces reproducibility crisis.
+\newblock {\em Science}, 359(6377):725--726.
+
+\bibitem[James et~al., 2013]{ISLR}
+James, G., Witten, D., Hastie, T., and Tibshirani, R. (2013).
+\newblock {\em An Introduction to Statistical Learning}, volume 112.
+\newblock Springer.
+
+\bibitem[Jordan and Mitchell, 2015]{jordan2015machine}
+Jordan, M.~I. and Mitchell, T.~M. (2015).
+\newblock Machine learning: Trends, perspectives, and prospects.
+\newblock {\em Science}, 349(6245):255--260.
+
+\bibitem[Kaelbling et~al., 1996]{kaelbling1996reinforcement}
+Kaelbling, L.~P., Littman, M.~L., and Moore, A.~W. (1996).
+\newblock Reinforcement learning: A survey.
+\newblock {\em Journal of artificial intelligence research}, 4:237--285.
+
+\bibitem[Kamiran and Calders, 2012]{kamiran2012data}
+Kamiran, F. and Calders, T. (2012).
+\newblock Data preprocessing techniques for classification without
+  discrimination.
+\newblock {\em Knowledge and Information Systems}, 33(1):1--33.
+
+\bibitem[Kang et~al., 2017]{Kang2017}
+Kang, W.-C., Fang, C., Wang, Z., and McAuley, J. (2017).
+\newblock Visually-aware fashion recommendation and design with generative
+  image models.
+\newblock In {\em 2017 IEEE International Conference on Data Mining (ICDM)},
+  pages 207--216. IEEE.
+
+\bibitem[Kim, 2015]{kim2015interactive}
+Kim, B. (2015).
+\newblock {\em Interactive and interpretable machine learning models for human
+  machine collaboration}.
+\newblock PhD thesis, Massachusetts Institute of Technology.
+
+\bibitem[Kim and Doshi-Velez, 2018]{doshivelez2018Intro}
+Kim, B. and Doshi-Velez, F. (2018).
+\newblock Introduction to interpretable machine learning.
+\newblock In {\em Proceedings of the CVPR 2018 Tutorial on Interpretable
+  Machine Learning for Computer Vision, Salt Lake City, UT, USA}.
+
+\bibitem[Kim et~al., 2016]{kim2016examples}
+Kim, B., Khanna, R., and Koyejo, O.~O. (2016).
+\newblock Examples are not enough, learn to criticize! criticism for
+  interpretability.
+\newblock In {\em Advances in neural information processing systems}, pages
+  2280--2288.
+
+\bibitem[Kirsch, 2017]{kirsch2017explain}
+Kirsch, A. (2017).
+\newblock {Explain to whom? putting the user in the center of explainable AI}.
+\newblock In {\em Proceedings of the First International Workshop on
+  Comprehensibility and Explanation in AI and ML 2017}.
+
+\bibitem[Koh and Liang, 2017]{koh2017understanding}
+Koh, P.~W. and Liang, P. (2017).
+\newblock Understanding black-box predictions via influence functions.
+\newblock In {\em International Conference on Machine Learning}, pages
+  1885--1894.
+
+\bibitem[Kohavi and Provost, 1998]{provost1998glossary}
+Kohavi, R. and Provost, F. (1998).
+\newblock Glossary of terms.
+\newblock {\em Journal of Machine Learning}, 30(2-3):271--274.
+
+\bibitem[Kramer and Cook, 2004]{kramer2004trust}
+Kramer, R.~M. and Cook, K.~S. (2004).
+\newblock {\em Trust and distrust in organizations: Dilemmas and approaches}.
+\newblock Russell Sage Foundation.
+
+\bibitem[Kramer and Tyler, 1995]{kramer1995trust}
+Kramer, R.~M. and Tyler, T.~R. (1995).
+\newblock {\em Trust in organizations: Frontiers of theory and research}.
+\newblock Sage Publications.
+
+\bibitem[Kreif and Diaz-Ordaz, 2019]{kreif2019machine}
+Kreif, N. and Diaz-Ordaz, K. (2019).
+\newblock Machine learning in policy evaluation: New tools for causal
+  inference.
+\newblock {\em arXiv preprint arXiv:1903.00402}.
+
+\bibitem[Krening et~al., 2016]{krening2016learning}
+Krening, S., Harrison, B., Feigh, K.~M., Isbell, C.~L., Riedl, M., and Thomaz,
+  A. (2016).
+\newblock {Learning from explanations using sentiment and advice in RL}.
+\newblock {\em IEEE Transactions on Cognitive and Developmental Systems},
+  9(1):44--55.
+
+\bibitem[Krishnan, 2019]{krishnan2019against}
+Krishnan, M. (2019).
+\newblock Against interpretability: A critical examination of the
+  interpretability problem in machine learning.
+\newblock {\em Philosophy and Technology}, pages 1--16.
+
+\bibitem[Kuhn and Johnson, 2013]{kuhn2013applied}
+Kuhn, M. and Johnson, K. (2013).
+\newblock {\em Applied predictive modeling}, volume~26.
+\newblock Springer.
+
+\bibitem[Kulesza et~al., 2015]{kulesza2015principles}
+Kulesza, T., Burnett, M., Wong, W.-K., and Stumpf, S. (2015).
+\newblock Principles of explanatory debugging to personalize interactive
+  machine learning.
+\newblock In {\em Proceedings of the 20th international conference on
+  intelligent user interfaces}, pages 126--137.
+
+\bibitem[Kumar et~al., 2018]{kumar2018machine}
+Kumar, N., Rajagopalan, P., Pankajakshan, P., Bhattacharyya, A., Sanyal, S.,
+  Balachandran, J., and Waghmare, U.~V. (2018).
+\newblock Machine learning constrained with dimensional analysis and scaling
+  laws: simple, transferable, and interpretable models of materials from small
+  datasets.
+\newblock {\em Chemistry of Materials}, 31(2):314--321.
+
+\bibitem[Lazer et~al., 2009]{lazer2009computational}
+Lazer, D., Pentland, A., Adamic, L., Aral, S., Barab{\'a}si, A.-L., Brewer, D.,
+  Christakis, N., Contractor, N., Fowler, J., Gutmann, M., et~al. (2009).
+\newblock Computational social science.
+\newblock {\em Science}, 323(5915):721--723.
+
+\bibitem[LeCun et~al., 2015]{lecun2015deep}
+LeCun, Y., Bengio, Y., and Hinton, G. (2015).
+\newblock Deep learning.
+\newblock {\em Nature}, 521(7553):436.
+
+\bibitem[Lee, 2017]{Lee2017}
+Lee, C. (2017).
+\newblock {A GA-based optimisation model for big data analytics supporting
+  anticipatory shipping in Retail 4.0}.
+\newblock {\em International Journal of Production Research}, 55(2):593--605.
+
+\bibitem[Lehr and Ohm, 2017]{lehr2017playing}
+Lehr, D. and Ohm, P. (2017).
+\newblock Playing with the data: What legal scholars should learn about machine
+  learning.
+\newblock {\em University of California Davis Law Review}, 51:653.
+
+\bibitem[Lipton, 2018]{lipton2018mythos}
+Lipton, Z.~C. (2018).
+\newblock The mythos of model interpretability.
+\newblock {\em Queue}, 16(3):31--57.
+
+\bibitem[Lipton and Steinhardt, 2019]{lipton2018troubling}
+Lipton, Z.~C. and Steinhardt, J. (2019).
+\newblock Troubling trends in machine learning scholarship.
+\newblock {\em Queue}, 17(1):45--77.
+
+\bibitem[Littman, 2015]{littman2015reinforcement}
+Littman, M.~L. (2015).
+\newblock Reinforcement learning improves behaviour from evaluative feedback.
+\newblock {\em Nature}, 521(7553):445.
+
+\bibitem[Madry et~al., 2017]{madry2017towards}
+Madry, A., Makelov, A., Schmidt, L., Tsipras, D., and Vladu, A. (2017).
+\newblock Towards deep learning models resistant to adversarial attacks.
+\newblock {\em arXiv preprint arXiv:1706.06083}.
+
+\bibitem[Malhotra, 2015]{malhotra2015systematic}
+Malhotra, R. (2015).
+\newblock A systematic review of machine learning techniques for software fault
+  prediction.
+\newblock {\em Applied Soft Computing}, 27:504--518.
+
+\bibitem[Marcus, 2018]{marcus2018deep}
+Marcus, G. (2018).
+\newblock Deep learning: A critical appraisal.
+\newblock {\em arXiv preprint arXiv:1801.00631}.
+
+\bibitem[Martens et~al., 2011]{martens2011performance}
+Martens, D., Vanthienen, J., Verbeke, W., and Baesens, B. (2011).
+\newblock Performance of classification models from a user perspective.
+\newblock {\em Decision Support Systems}, 51(4):782--793.
+
+\bibitem[{Math Vault}, 2019]{Mathvault2019}
+{Math Vault} (2019).
+\newblock The definitive glossary of higher mathematical jargon - algorithm.
+\newblock {\em On \url{https://mathvault.ca/math-glossary/#algo}}.
+
+\bibitem[McKinsey, 2018a]{mckinsey2018b}
+McKinsey (2018a).
+\newblock {Notes from AI Frontier: AI Adoption Advances, but Foundational
+  Barriers Remain}.
+\newblock Discussion paper, McKinsey Global Institute.
+
+\bibitem[McKinsey, 2018b]{mckinsey2018}
+McKinsey (2018b).
+\newblock {Notes from AI Frontier: Modeling the Impact of AI on the World
+  Economy}.
+\newblock Discussion paper, McKinsey Global Institute.
+
+\bibitem[Melton, 2014]{melton2014categories}
+Melton, A.~W. (2014).
+\newblock {\em Categories of human learning}.
+\newblock Academic Press.
+
+\bibitem[Miller, 1956]{miller1956magical}
+Miller, G.~A. (1956).
+\newblock The magical number seven, plus or minus two: Some limits on our
+  capacity for processing information.
+\newblock {\em Psychological review}, 63(2):81.
+
+\bibitem[Miller, 2019]{miller2019explanation}
+Miller, T. (2019).
+\newblock Explanation in artificial intelligence: Insights from the social
+  sciences.
+\newblock {\em Artificial Intelligence}, 267:1--38.
+
+\bibitem[Mishra et~al., 2017]{mishra2017local}
+Mishra, S., Sturm, B.~L., and Dixon, S. (2017).
+\newblock Local interpretable model-agnostic explanations for music content
+  analysis.
+\newblock In {\em ISMIR}, pages 537--543.
+
+\bibitem[Mitchell, 1997]{mitchell2006discipline}
+Mitchell, T.~M. (1997).
+\newblock {\em Machine learning}.
+\newblock McGraw-Hill Science.
+
+\bibitem[Mitchell, 2006]{mitchell2006discipline1}
+Mitchell, T.~M. (2006).
+\newblock {\em The discipline of machine learning}, volume~9.
+\newblock Carnegie Mellon University, School of Computer Science, Machine
+  Learning.
+
+\bibitem[Mittelstadt et~al., 2019]{mittelstadt2019explaining}
+Mittelstadt, B., Russell, C., and Wachter, S. (2019).
+\newblock {Explaining explanations in AI}.
+\newblock In {\em Proceedings of the conference on fairness, accountability,
+  and transparency}, pages 279--288.
+
+\bibitem[Mohri et~al., 2018]{mohri2018foundations}
+Mohri, M., Rostamizadeh, A., and Talwalkar, A. (2018).
+\newblock {\em Foundations of machine learning}.
+\newblock MIT press.
+
+\bibitem[Mohseni et~al., 2018]{mohseni2018survey}
+Mohseni, S., Zarei, N., and Ragan, E.~D. (2018).
+\newblock A survey of evaluation methods and measures for interpretable machine
+  learning.
+\newblock {\em arXiv preprint arXiv:1811.11839}.
+
+\bibitem[Molnar, 2020]{molnar2019interpretable}
+Molnar, C. (2020).
+\newblock {\em Interpretable machine learning}.
+\newblock Leanpub.
+
+\bibitem[Mueller et~al., 2019]{mueller2019explanation}
+Mueller, S.~T., Hoffman, R.~R., Clancey, W., Emrey, A., and Klein, G. (2019).
+\newblock {Explanation in human-AI systems: A literature meta-review, synopsis
+  of key ideas and publications, and bibliography for explainable AI}.
+\newblock {\em arXiv preprint arXiv:1902.01876}.
+
+\bibitem[Mullainathan and Spiess, 2017]{mullainathan2017machine}
+Mullainathan, S. and Spiess, J. (2017).
+\newblock Machine learning: An applied econometric approach.
+\newblock {\em Journal of Economic Perspectives}, 31(2):87--106.
+
+\bibitem[Murdoch et~al., 2019]{murdoch2019definitions}
+Murdoch, W.~J., Singh, C., Kumbier, K., Abbasi-Asl, R., and Yu, B. (2019).
+\newblock Definitions, methods, and applications in interpretable machine
+  learning.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  116(44):22071--22080.
+
+\bibitem[Murphy, 2012]{murphy2012machine}
+Murphy, K.~P. (2012).
+\newblock {\em Machine learning: A probabilistic perspective}.
+\newblock MIT press.
+
+\bibitem[Nash et~al., 1994]{nash1994population}
+Nash, W.~J., Sellers, T.~L., Talbot, S.~R., Cawthorn, A.~J., and Ford, W.~B.
+  (1994).
+\newblock The population biology of abalone (haliotis species) in tasmania. i.
+  blacklip abalone (h. rubra) from the north coast and islands of bass strait.
+\newblock {\em Sea Fisheries Division, Technical Report}, 48.
+
+\bibitem[Nawi et~al., 2013]{nawi2013effect}
+Nawi, N.~M., Atomi, W.~H., and Rehman, M. (2013).
+\newblock The effect of data pre-processing on optimized training of artificial
+  neural networks.
+\newblock {\em Procedia Technology}, 11:32--39.
+
+\bibitem[Neftci and Averbeck, 2019]{neftci2019reinforcement}
+Neftci, E.~O. and Averbeck, B.~B. (2019).
+\newblock Reinforcement learning in artificial and biological systems.
+\newblock {\em Nature Machine Intelligence}, 1(3):133--143.
+
+\bibitem[Nokelainen et~al., 2018]{nokelainen2018mind}
+Nokelainen, P., Nevalainen, T., and Niemi, K. (2018).
+\newblock {Mind or machine? Opportunities and limits of automation}.
+\newblock In {\em The impact of digitalization in the workplace}, pages 13--24.
+  Springer.
+
+\bibitem[Nunes-Alves, 2016]{nunes2016}
+Nunes-Alves, C. (2016).
+\newblock Microbiome: microbiota-based nutrition plans.
+\newblock {\em Nature reviews. Microbiology}, 14(1):1.
+
+\bibitem[Obermeyer and Emanuel, 2016]{obermeyer2016predicting}
+Obermeyer, Z. and Emanuel, E.~J. (2016).
+\newblock Predicting the future - big data, machine learning, and clinical
+  medicine.
+\newblock {\em The New England journal of medicine}, 375(13):1216.
+
+\bibitem[Obermeyer et~al., 2019]{obermeyer2019dissecting}
+Obermeyer, Z., Powers, B., Vogeli, C., and Mullainathan, S. (2019).
+\newblock Dissecting racial bias in an algorithm used to manage the health of
+  populations.
+\newblock {\em Science}, 366(6464):447--453.
+
+\bibitem[Oquendo et~al., 2012]{oquendo2012machine}
+Oquendo, M., Baca-Garcia, E., Artes-Rodriguez, A., Perez-Cruz, F., Galfalvy,
+  H., Blasco-Fontecilla, H., Madigan, D., and Duan, N. (2012).
+\newblock Machine learning and data mining: Strategies for hypothesis
+  generation.
+\newblock {\em Molecular psychiatry}, 17(10):956--959.
+
+\bibitem[Otte, 2013]{otte2013safe}
+Otte, C. (2013).
+\newblock Safe and interpretable machine learning: A methodological review.
+\newblock In {\em Computational intelligence in intelligent data analysis},
+  pages 111--122. Springer.
+
+\bibitem[Patil et~al., 2016]{patil2016statistical}
+Patil, P., Peng, R.~D., and Leek, J. (2016).
+\newblock A statistical definition for reproducibility and replicability.
+\newblock {\em BioRxiv}, page 066803.
+
+\bibitem[Pearl, 2009]{pearl2009causality}
+Pearl, J. (2009).
+\newblock {\em Causality}.
+\newblock Cambridge university press.
+
+\bibitem[Pedersen and Benesty, 2018]{pedersen2018lime}
+Pedersen, T.~L. and Benesty, M. (2018).
+\newblock lime: Local interpretable model-agnostic explanations.
+\newblock {\em R Package version 0.4}, 1.
+
+\bibitem[Pitt, 1988]{pitt1988theories}
+Pitt, J.~C. (1988).
+\newblock {\em Theories of explanation}.
+\newblock Oxford University Press.
+
+\bibitem[Preece et~al., 2018]{preece2018stakeholders}
+Preece, A., Harborne, D., Braines, D., Tomsett, R., and Chakraborty, S. (2018).
+\newblock {Stakeholders in explainable AI}.
+\newblock {\em arXiv preprint arXiv:1810.00184}.
+
+\bibitem[Prince et~al., 1988]{prince1988recruitment}
+Prince, J., Sellers, T., Ford, W., and Talbot, S. (1988).
+\newblock Recruitment, growth, mortality and population structure in a southern
+  australian population of haliotis rubra (mollusca: Gastropoda).
+\newblock {\em Marine biology}, 100(1):75--82.
+
+\bibitem[Pu and Chen, 2007]{pu2007trust}
+Pu, P. and Chen, L. (2007).
+\newblock Trust-inspiring explanation interfaces for recommender systems.
+\newblock {\em Knowledge-Based Systems}, 20(6):542--556.
+
+\bibitem[Queipo et~al., 2005]{queipo2005surrogate}
+Queipo, N.~V., Haftka, R.~T., Shyy, W., Goel, T., Vaidyanathan, R., and Tucker,
+  P.~K. (2005).
+\newblock Surrogate-based analysis and optimization.
+\newblock {\em Progress in aerospace sciences}, 41(1):1--28.
+
+\bibitem[Quinlan, 1987a]{quinlan1987generating}
+Quinlan, J.~R. (1987a).
+\newblock Generating production rules from decision trees.
+\newblock In {\em International Joint Conferences on Artificial Intelligence
+  Organization: Proceedings of the 10th International joint conference on
+  Artificial Intelligence - Volume 1}, volume~87, pages 304--307. Citeseer.
+
+\bibitem[Quinlan, 1987b]{quinlan1987simplifying}
+Quinlan, J.~R. (1987b).
+\newblock Simplifying decision trees.
+\newblock {\em International journal of man-machine studies}, 27(3):221--234.
+
+\bibitem[Raymond et~al., 2019]{stanford2019}
+Raymond, P., Shoham, Y., Brynjolfsson, E., Clark, J., Etchemendy, J., Grosz,
+  B., Lyons, T., Mynika, J., Mishra, S., and Niebles, J. (2019).
+\newblock {The AI index 2019 annual report}.
+\newblock Technical report, {Human-Centered AI Institute: AI Index Steering
+  Dommittee}.
+
+\bibitem[Ribeiro et~al., 2016a]{ribeiro2016model}
+Ribeiro, M.~T., Singh, S., and Guestrin, C. (2016a).
+\newblock Model-agnostic interpretability of machine learning.
+\newblock {\em arXiv preprint arXiv:1606.05386}.
+
+\bibitem[Ribeiro et~al., 2016b]{ribeiro2016should}
+Ribeiro, M.~T., Singh, S., and Guestrin, C. (2016b).
+\newblock {"Why should i trust you?" Explaining the predictions of any
+  classifier}.
+\newblock In {\em Proceedings of the 22nd ACM SIGKDD international conference
+  on knowledge discovery and data mining}, pages 1135--1144.
+
+\bibitem[Robnik-{\v{S}}ikonja and Bohanec, 2018]{robnik2018perturbation}
+Robnik-{\v{S}}ikonja, M. and Bohanec, M. (2018).
+\newblock Perturbation-based explanations of prediction models.
+\newblock In {\em Human and machine learning}, pages 159--175. Springer.
+
+\bibitem[Rudin, 2019]{rudin2019stop}
+Rudin, C. (2019).
+\newblock Stop explaining black box machine learning models for high stakes
+  decisions and use interpretable models instead.
+\newblock {\em Nature Machine Intelligence}, 1(5):206--215.
+
+\bibitem[Salmon et~al., 1989]{salmon1989four}
+Salmon, W.~C. et~al. (1989).
+\newblock Four decades of scientific explanation.
+\newblock {\em Scientific explanation}, 13:3--219.
+
+\bibitem[Sanchis-Ojeda et~al., 2016]{sanchis2016}
+Sanchis-Ojeda, R., Sibley, D., and Massimi, P. (2016).
+\newblock Detection of fashion trends and seasonal cycles through the analysis
+  of implicit and explicit client feedback.
+\newblock In {\em KDD Fashion Workshop}.
+
+\bibitem[Scotchmer, 1991]{scotchmer1991standing}
+Scotchmer, S. (1991).
+\newblock Standing on the shoulders of giants: Cumulative research and the
+  patent law.
+\newblock {\em Journal of economic perspectives}, 5(1):29--41.
+
+\bibitem[Sculley et~al., 2015]{sculley2015hidden}
+Sculley, D., Holt, G., Golovin, D., Davydov, E., Phillips, T., Ebner, D.,
+  Chaudhary, V., Young, M., Crespo, J.-F., and Dennison, D. (2015).
+\newblock Hidden technical debt in machine learning systems.
+\newblock In {\em Advances in neural information processing systems}, pages
+  2503--2511.
+
+\bibitem[Selbst and Powles, 2017]{selbst2017meaningful}
+Selbst, A.~D. and Powles, J. (2017).
+\newblock Meaningful information and the right to explanation.
+\newblock {\em International Data Privacy Law}, 7(4):233--242.
+
+\bibitem[Shemtov, 2019]{shemtov2019invai}
+Shemtov, N. (2019).
+\newblock {A study on inventorship in inventions involving AI activity}.
+\newblock Technical report, European Patent Office.
+
+\bibitem[Shi et~al., 2020]{shi2020modified}
+Shi, S., Zhang, X., and Fan, W. (2020).
+\newblock A modified perturbed sampling method for local interpretable
+  model-agnostic explanation.
+\newblock {\em arXiv preprint arXiv:2002.07434}.
+
+\bibitem[Siau and Wang, 2018]{siau2018building}
+Siau, K. and Wang, W. (2018).
+\newblock Building trust in artificial intelligence, machine learning, and
+  robotics.
+\newblock {\em Cutter Business Technology Journal}, 31(2):47--53.
+
+\bibitem[Silva et~al., 2018]{silva2018towards}
+Silva, W., Fernandes, K., Cardoso, M.~J., and Cardoso, J.~S. (2018).
+\newblock Towards complementary explanations using deep neural networks.
+\newblock In {\em Understanding and Interpreting Machine Learning in Medical
+  Image Computing Applications}, pages 133--140. Springer.
+
+\bibitem[Silver et~al., 2018]{silver2018general}
+Silver, D., Hubert, T., Schrittwieser, J., Antonoglou, I., Lai, M., Guez, A.,
+  Lanctot, M., Sifre, L., Kumaran, D., Graepel, T., et~al. (2018).
+\newblock A general reinforcement learning algorithm that masters chess, shogi,
+  and go through self-play.
+\newblock {\em Science}, 362(6419):1140--1144.
+
+\bibitem[Sinha and Swearingen, 2002]{sinha2002role}
+Sinha, R. and Swearingen, K. (2002).
+\newblock The role of transparency in recommender systems.
+\newblock In {\em CHI'02 extended abstracts on Human factors in computing
+  systems}, pages 830--831.
+
+\bibitem[Sonnenburg and Sonnenburg, 2015]{sonnenburg2015}
+Sonnenburg, E.~D. and Sonnenburg, J.~L. (2015).
+\newblock Nutrition: A personal forecast.
+\newblock {\em Nature}, 528(7583):484.
+
+\bibitem[Southwood, 2014]{peter2014abalone}
+Southwood, P. (2014).
+\newblock {Blacklip abalone (haliotis rubra) at Mistaken Cape, Maria Island,
+  Tasmania}.
+\newblock {\em On
+  \url{https://en.wikipedia.org/wiki/Haliotis#/media/File:Haliotis_rubra_P2164176.JPG}}.
+
+\bibitem[Spiegel et~al., 2012]{spiegel2012}
+Spiegel, J.~R., McKenna, M.~T., Lakshman, G.~S., and Nordstrom, P.~G. (2012).
+\newblock Method and system for anticipatory package shipping.
+\newblock Google Patents.
+\newblock US 8,615,473 B2.
+
+\bibitem[Stock and Watson, 2015]{stock2015introduction}
+Stock, J.~H. and Watson, M.~W. (2015).
+\newblock {\em Introduction to econometrics}.
+
+\bibitem[Strevens, 2004]{strevens2004causal}
+Strevens, M. (2004).
+\newblock The causal and unification approaches to explanation
+  unified—causally.
+\newblock {\em No{\^u}s}, 38(1):154--176.
+
+\bibitem[Surden, 2014]{surden2014machine}
+Surden, H. (2014).
+\newblock Machine learning and law.
+\newblock {\em Washington Law Review}, 89:87--115.
+
+\bibitem[Suwajanakorn et~al., 2017]{suwajanakorn2017synthesizing}
+Suwajanakorn, S., Seitz, S.~M., and Kemelmacher-Shlizerman, I. (2017).
+\newblock {Synthesizing Obama: Learning lip sync from audio}.
+\newblock {\em ACM Transactions on Graphics (TOG)}, 36(4):95.
+
+\bibitem[Tan et~al., 2018]{tan2018distill}
+Tan, S., Caruana, R., Hooker, G., and Lou, Y. (2018).
+\newblock Distill-and-compare: Auditing black-box models using transparent
+  model distillation.
+\newblock In {\em Proceedings of the 2018 AAAI/ACM Conference on AI, Ethics,
+  and Society}, pages 303--310.
+
+\bibitem[Tarca et~al., 2007]{tarca2007machine}
+Tarca, A.~L., Carey, V.~J., Chen, X.-w., Romero, R., and Dr{\u{a}}ghici, S.
+  (2007).
+\newblock Machine learning and its applications to biology.
+\newblock {\em PLoS computational biology}, 3(6).
+
+\bibitem[Teach and Shortliffe, 1981]{teach1981analysis}
+Teach, R.~L. and Shortliffe, E.~H. (1981).
+\newblock An analysis of physician attitudes regarding computer-based clinical
+  consultation systems.
+\newblock {\em Computers and Biomedical Research}, 14(6):542--558.
+
+\bibitem[Thagard, 1990]{thagard1990philosophy}
+Thagard, P. (1990).
+\newblock Philosophy and machine learning.
+\newblock {\em Canadian Journal of Philosophy}, 20(2):261--276.
+
+\bibitem[Thomassey and Zeng, 2018]{thomassey2018}
+Thomassey, S. and Zeng, X. (2018).
+\newblock {\em Artificial Intelligence for Fashion Industry in the Big Data
+  Era}.
+\newblock Springer.
+
+\bibitem[Tibshirani, 1996]{tibshirani1996regression}
+Tibshirani, R. (1996).
+\newblock Regression shrinkage and selection via the lasso.
+\newblock {\em Journal of the Royal Statistical Society: Series B
+  (Methodological)}, 58(1):267--288.
+
+\bibitem[Tjoa and Guan, 2019]{tjoa2019survey}
+Tjoa, E. and Guan, C. (2019).
+\newblock {A survey on explainable artificial intelligence (XAI): Towards
+  medical XAI}.
+\newblock {\em arXiv preprint arXiv:1907.07374}.
+
+\bibitem[Tomsett et~al., 2018]{tomsett2018interpretable}
+Tomsett, R., Braines, D., Harborne, D., Preece, A., and Chakraborty, S. (2018).
+\newblock Interpretable to whom? a role-based model for analyzing interpretable
+  machine learning systems.
+\newblock {\em arXiv preprint arXiv:1806.07552}.
+
+\bibitem[Toutenburg and Heumann, 2008a]{toutenburg2008deskriptive}
+Toutenburg, H. and Heumann, C. (2008a).
+\newblock {\em Deskriptive Statistik: eine Einf{\"u}hrung in Methoden und
+  Anwendungen mit R und SPSS}.
+\newblock Springer-Verlag.
+
+\bibitem[Toutenburg and Heumann, 2008b]{toutenburg2008induktive}
+Toutenburg, H. and Heumann, C. (2008b).
+\newblock {\em Induktive Statistik: eine Einf{\"u}hrung mit R und SPSS}.
+\newblock Springer-Verlag.
+
+\bibitem[Tukey, 1977]{tukey1977exploratory}
+Tukey, J.~W. (1977).
+\newblock {\em Exploratory data analysis}, volume~2.
+\newblock Reading, Mass.
+
+\bibitem[{US Congress (116th)}, 2019]{AAAct2019}
+{US Congress (116th)} (2019).
+\newblock Algorithmic accountability act of 2019 (s. 1108).
+
+\bibitem[{U.S. Department of Transportation}, 2020]{NSUSDT2020}
+{U.S. Department of Transportation} (2020).
+\newblock Ensuring american leadership in automated vehicle technologies -
+  automated vehicles 4.0.
+\newblock Technical report, National Science \& Technology Council and the
+  United States Department of Transportation.
+
+\bibitem[Van~Belle and Lisboa, 2013]{van2013research}
+Van~Belle, V. and Lisboa, P. (2013).
+\newblock Research directions in interpretable machine learning models.
+\newblock In {\em European Symposium on Artificial Neural Networks}.
+
+\bibitem[Van~Fraassen, 1977]{van1977pragmatics}
+Van~Fraassen, B.~C. (1977).
+\newblock The pragmatics of explanation.
+\newblock {\em American Philosophical Quarterly}, 14(2):143--150.
+
+\bibitem[Varshney, 2016]{varshney2016engineering}
+Varshney, K.~R. (2016).
+\newblock Engineering safety in machine learning.
+\newblock In {\em 2016 Information Theory and Applications Workshop (ITA)},
+  pages 1--5. IEEE.
+
+\bibitem[Vellido et~al., 2012]{vellido2012making}
+Vellido, A., Mart{\'\i}n-Guerrero, J.~D., and Lisboa, P.~J. (2012).
+\newblock Making machine learning models interpretable.
+\newblock In {\em European Symposium on Artificial Neural Networks}, volume~12,
+  pages 163--172. Citeseer.
+
+\bibitem[Verbeke et~al., 2011]{verbeke2011building}
+Verbeke, W., Martens, D., Mues, C., and Baesens, B. (2011).
+\newblock Building comprehensible customer churn prediction models with
+  advanced rule induction techniques.
+\newblock {\em Expert systems with applications}, 38(3):2354--2364.
+
+\bibitem[Verma and Rubin, 2018]{verma2018fairness}
+Verma, S. and Rubin, J. (2018).
+\newblock Fairness definitions explained.
+\newblock In {\em 2018 IEEE/ACM International Workshop on Software Fairness
+  (FairWare)}, pages 1--7. IEEE.
+
+\bibitem[Vinyals et~al., 2019]{vinyals2019grandmaster}
+Vinyals, O., Babuschkin, I., Czarnecki, W.~M., Mathieu, M., Dudzik, A., Chung,
+  J., Choi, D.~H., Powell, R., Ewalds, T., Georgiev, P., et~al. (2019).
+\newblock {Grandmaster level in StarCraft II using multi-agent reinforcement
+  learning}.
+\newblock {\em Nature}, 575(7782):350--354.
+
+\bibitem[Visser, 1991]{visser1991formalization}
+Visser, A. (1991).
+\newblock The formalization of interpretability.
+\newblock {\em Studia Logica}, pages 81--105.
+
+\bibitem[von Schwartzenberg and Turnbaugh, 2015]{von2015siri}
+von Schwartzenberg, R.~J. and Turnbaugh, P.~J. (2015).
+\newblock Siri, what should i eat?
+\newblock {\em Cell}, 163(5):1051--1052.
+
+\bibitem[Voosen, 2017]{voosen2017ai}
+Voosen, P. (2017).
+\newblock {How AI detectives are craking open the black box of deep learning}.
+\newblock {\em Science}.
+
+\bibitem[Vukovi{\'c} et~al., 1999]{vukovic1999principles}
+Vukovi{\'c}, M. et~al. (1999).
+\newblock The principles of interpretability.
+\newblock {\em Notre Dame Journal of Formal Logic}, 40(2):227--235.
+
+\bibitem[Wachter et~al., 2017]{wachter2017right}
+Wachter, S., Mittelstadt, B., and Floridi, L. (2017).
+\newblock Why a right to explanation of automated decision-making does not
+  exist in the general data protection regulation.
+\newblock {\em International Data Privacy Law}, 7(2):76--99.
+
+\bibitem[Waugh, 1995]{waugh1995abalone}
+Waugh, S. (1995).
+\newblock {Abalone Dataset UCI Machine Learning Repository
+  \url{https://archive. ics. uci. edu/ml/datasets/abalone}. Irvine}.
+\newblock {\em CA: University of California, School of Information and Computer
+  Science [Dataset]}.
+
+\bibitem[Weller, 2019]{weller2019transparency}
+Weller, A. (2019).
+\newblock Transparency: Motivations and challenges.
+\newblock In {\em Explainable AI: Interpreting, Explaining and Visualizing Deep
+  Learning}, pages 23--40. Springer.
+
+\bibitem[Witten et~al., 2017]{witten2005practical}
+Witten, I.~H., Frank, E., and Hall, M.~A. (2017).
+\newblock {\em Practical machine learning tools and techniques}.
+\newblock Morgan Kaufmann, 4th edition edition.
+
+\bibitem[Wright, 1983]{wright1983economics}
+Wright, B.~D. (1983).
+\newblock The economics of invention incentives: Patents, prizes, and research
+  contracts.
+\newblock {\em The American Economic Review}, 73(4):691--707.
+
+\bibitem[Xiang et~al., 2019]{xiang2019interpretable}
+Xiang, L., Ma, H., Zhang, H., Zhang, Y., Ren, J., and Zhang, Q. (2019).
+\newblock Interpretable complex-valued neural networks for privacy protection.
+\newblock {\em arXiv preprint arXiv:1901.09546}.
+
+\bibitem[Yanisky-Ravid and Liu, 2017]{ravid2017artificial}
+Yanisky-Ravid, S. and Liu, X.~J. (2017).
+\newblock When artificial intelligence systems produce inventions - the 3a era
+  and an alternative model for patent law.
+\newblock {\em Cardozo Law Review}, 39:2215--2263.
+
+\bibitem[Ye and Johnson, 1995]{ye1995impact}
+Ye, L.~R. and Johnson, P.~E. (1995).
+\newblock The impact of explanation facilities on user acceptance of expert
+  systems advice.
+\newblock {\em MIS Quarterly}, pages 157--172.
+
+\bibitem[Zemel et~al., 2013]{zemel2013learning}
+Zemel, R., Wu, Y., Swersky, K., Pitassi, T., and Dwork, C. (2013).
+\newblock Learning fair representations.
+\newblock In {\em International Conference on Machine Learning}, pages
+  325--333.
+
+\bibitem[Zhu, 2005]{zhu2005semi}
+Zhu, X.~J. (2005).
+\newblock Semi-supervised learning literature survey.
+\newblock Technical report, University of Wisconsin-Madison Department of
+  Computer Sciences.
+
+\end{thebibliography}
